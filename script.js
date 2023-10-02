@@ -20,7 +20,4 @@ function createTable() {
   }
 }
 // Get the button element by its id
-const createTableButton = document.getElementById("createTableButton");
 
-// Add a click event listener to the button
-createTableButton.addEventListener("click", createTable);
